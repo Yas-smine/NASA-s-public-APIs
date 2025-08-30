@@ -36,4 +36,4 @@ Practice accessing and consuming NASA's public APIs to retrieve space-related da
 
 ---
 
-This checkpomini project reinforces API consumption, data wrangling, and file export—essential skills for practical data science workflows.
+This mini project reinforces API consumption, data wrangling, and file export—essential skills for practical data science workflows.
